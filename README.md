@@ -64,6 +64,3 @@ legalmind/
 └── package.json
 ```
 
-## License
-
-MIT
